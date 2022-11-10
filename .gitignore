@@ -89,7 +89,7 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 #Starter Content
-Content/StarterContent/
+Content/StarterContent/*
 
 #First Person Character
 Content/FirstPerson/*
