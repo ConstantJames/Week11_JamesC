@@ -13,6 +13,9 @@ Saved
 *.xcodeproj
 *.xcworkspace
 
+# Starter Content
+Content/StarterContent/*
+
 # Visual Studio 2015 user specific files
 .vs/
 
@@ -87,15 +90,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-
-#Starter Content
-Content/StarterContent/*
-
-#Third Person Character
-Content/ThirdPerson/*
-Content/__ExternalActors__/*
-Content/__ExternalObjects__/*
-Content/Characters/*
 
 #Level Prototyping
 Content/LevelPrototyping/*
